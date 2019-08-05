@@ -1,0 +1,50 @@
+[2019-08-05 19:55:54.934] [sharedprocess] [info] main {"machineId":"afc5ce7dad504a4107ee7a08e50681437105fc8b948a252278ca65ef15607503"}
+[2019-08-05 19:55:55.368] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 19:55:55.463] [sharedprocess] [info] vscode-icons-team.vscode-icons 9.1.0 Running post uninstall script
+[2019-08-05 19:55:55.549] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 19:55:55.639] [sharedprocess] [info] Deleted from disk zhuangtongfa.material-theme /home/admin123/.vscode/extensions/zhuangtongfa.material-theme-2.26.0
+[2019-08-05 19:55:55.669] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 19:55:55.750] [sharedprocess] [info] Scanned system extensions: 72
+[2019-08-05 19:55:55.767] [sharedprocess] [info] Scanned system extensions: 72
+[2019-08-05 19:55:55.803] [sharedprocess] [info] Scanned system extensions: 72
+[2019-08-05 19:55:55.852] [sharedprocess] [error] vscode-icons-team.vscode-icons 9.1.0 post-uninstall internal/modules/cjs/loader.js:604
+    throw err;
+    ^
+
+Error: Cannot find module '/home/admin123/.vscode/extensions/vscode-icons-team.vscode-icons-9.1.0/out/src/uninstall.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:602:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:528:25)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:753:10)
+    at startup (internal/bootstrap/node.js:241:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:579:3)
+
+[2019-08-05 19:55:55.873] [sharedprocess] [error] vscode-icons-team.vscode-icons 9.1.0 Failed to run post uninstall script: post-uninstall process exited with code 1
+[2019-08-05 19:55:56.041] [sharedprocess] [info] Deleted from disk vscode-icons-team.vscode-icons /home/admin123/.vscode/extensions/vscode-icons-team.vscode-icons-9.1.0
+[2019-08-05 19:55:56.399] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 19:56:34.968] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-08-05 19:59:48.974] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 19:59:48.977] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 19:59:49.083] [sharedprocess] [info] Scanned system extensions: 72
+[2019-08-05 19:59:49.095] [sharedprocess] [info] Scanned system extensions: 72
+[2019-08-05 19:59:50.950] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:04:51.080] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:09:51.242] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:14:51.384] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:19:51.473] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:24:51.583] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:29:51.662] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:34:51.783] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:39:51.816] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:44:51.844] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:49:51.900] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:54:51.934] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 20:59:52.549] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 21:04:52.583] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 21:09:52.623] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 21:14:52.861] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 21:19:53.056] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 21:24:53.114] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 21:29:53.191] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 21:34:53.236] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 21:39:53.401] [sharedprocess] [info] Scanned user extensions: 16
+[2019-08-05 21:44:53.433] [sharedprocess] [info] Scanned user extensions: 16

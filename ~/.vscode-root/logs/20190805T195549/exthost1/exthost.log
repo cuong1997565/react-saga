@@ -1,0 +1,488 @@
+[2019-08-05 19:55:54.800] [exthost] [info] extension host started
+[2019-08-05 19:55:54.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:54.857] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-05 19:55:54.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:54.866] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-05 19:55:54.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:54.924] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-05 19:55:55.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:55.195] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-05 19:55:55.227] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:55.227] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2019-08-05 19:55:55.564] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:55.564] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-08-05 19:55:55.685] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:55.685] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-08-05 19:55:55.868] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:55.868] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-08-05 19:55:55.876] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:55.876] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-05 19:55:55.889] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:55.890] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-08-05 19:55:56.148] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:55:56.148] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/vscode-icons-team.vscode-icons-9.2.0/dist/src/vscode-icons.bundle.js
+[2019-08-05 19:55:56.397] [exthost] [info] eager extensions activated
+[2019-08-05 19:59:49.897] [exthost] [info] extension host started
+[2019-08-05 19:59:49.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:49.933] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-05 19:59:49.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:49.950] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-05 19:59:49.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:49.981] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-05 19:59:50.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:50.134] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-05 19:59:50.144] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:50.144] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2019-08-05 19:59:50.243] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:50.243] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-08-05 19:59:50.303] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:50.303] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-08-05 19:59:50.359] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:50.359] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-08-05 19:59:50.362] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:50.362] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-05 19:59:50.367] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:50.367] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-08-05 19:59:50.449] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-08-05 19:59:50.449] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/vscode-icons-team.vscode-icons-9.2.0/dist/src/vscode-icons.bundle.js
+[2019-08-05 19:59:50.638] [exthost] [info] eager extensions activated
+[2019-08-05 20:00:24.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-08-05 20:00:24.127] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-08-05 20:03:56.904] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 20:03:56.911] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getStartsOnNewLine (tsserver.js:63195:29)
+    at shouldWriteSeparatingLineTerminator (tsserver.js:86509:27)
+    at emitNodeList (tsserver.js:86294:29)
+    at emitList (tsserver.js:86191:13)
+    at Object.writeList (tsserver.js:83634:13)
+    at tsserver.js:106752:29
+    at Object.mapToDisplayParts (tsserver.js:96614:13)
+    at itemInfoForParameters (tsserver.js:106749:41)
+    at getSignatureHelpItem (tsserver.js:106715:95)
+    at tsserver.js:106688:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:106688:36)
+    at tsserver.js:106293:23
+    at Object.runWithCancellationToken (tsserver.js:31444:28)
+    at Object.getSignatureHelpItems (tsserver.js:106291:32)
+    at Object.getSignatureHelpItems (tsserver.js:121081:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:130027:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:128933:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-08-05 20:04:53.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-08-05 20:04:53.242] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-08-05 20:18:15.297] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 20:18:15.298] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getStartsOnNewLine (tsserver.js:63195:29)
+    at shouldWriteSeparatingLineTerminator (tsserver.js:86509:27)
+    at emitNodeList (tsserver.js:86294:29)
+    at emitList (tsserver.js:86191:13)
+    at Object.writeList (tsserver.js:83634:13)
+    at tsserver.js:106752:29
+    at Object.mapToDisplayParts (tsserver.js:96614:13)
+    at itemInfoForParameters (tsserver.js:106749:41)
+    at getSignatureHelpItem (tsserver.js:106715:95)
+    at tsserver.js:106688:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:106688:36)
+    at tsserver.js:106293:23
+    at Object.runWithCancellationToken (tsserver.js:31444:28)
+    at Object.getSignatureHelpItems (tsserver.js:106291:32)
+    at Object.getSignatureHelpItems (tsserver.js:121081:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:130027:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:128933:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-08-05 20:18:28.687] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 20:18:28.687] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getStartsOnNewLine (tsserver.js:63195:29)
+    at shouldWriteSeparatingLineTerminator (tsserver.js:86509:27)
+    at emitNodeList (tsserver.js:86294:29)
+    at emitList (tsserver.js:86191:13)
+    at Object.writeList (tsserver.js:83634:13)
+    at tsserver.js:106752:29
+    at Object.mapToDisplayParts (tsserver.js:96614:13)
+    at itemInfoForParameters (tsserver.js:106749:41)
+    at getSignatureHelpItem (tsserver.js:106715:95)
+    at tsserver.js:106688:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:106688:36)
+    at tsserver.js:106293:23
+    at Object.runWithCancellationToken (tsserver.js:31444:28)
+    at Object.getSignatureHelpItems (tsserver.js:106291:32)
+    at Object.getSignatureHelpItems (tsserver.js:121081:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:130027:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:128933:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-08-05 20:36:41.613] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 20:36:41.616] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Could not find sourceFile: '/var/www/reactjs/react-saga/react-saga-lession01/src/reducers/index.js' in ["/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es5.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2016.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.dom.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.dom.iterable.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.scripthost.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.core.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.collection.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.generator.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.promise.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.object.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.string.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.intl.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.intl.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.promise.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.regexp.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.esnext.intl.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.esnext.bigint.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2016.full.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/src/reducers/task.js","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/atob/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/eslint-plugin-prettier/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/json-schema/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/estree/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/eslint/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/globals.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/assert.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/async_hooks.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/buffer.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/child_process.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/cluster.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/console.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/constants.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/crypto.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/dgram.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/dns.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/domain.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/events.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/fs.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/http.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/http2.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/https.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/inspector.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/module.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/net.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/os.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/path.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/perf_hooks.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/process.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/punycode.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/querystring.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/readline.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/repl.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/stream.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/string_decoder.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/timers.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/tls.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/trace_events.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/tty.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/url.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/util.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/v8.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/vm.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/worker_threads.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/zlib.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/base.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/ts3.2/util.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/ts3.2/globals.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/ts3.2/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/object-hash/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/prettier/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/react/global.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/csstype/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/prop-types/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/react/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/react-dom/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/symbol-observable/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/redux/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/hoist-non-react-statics/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/react-redux/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/sprintf/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react/global.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/csstype/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/prop-types/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/react-scripts/lib/react-app.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/redux/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/redux-thunk/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@babel/types/lib/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/babel__generator/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/babel__traverse/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@babel/parser/typings/babel-parser.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/babel__template/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/babel__core/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/istanbul-lib-coverage/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/istanbul-lib-report/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/istanbul-reports/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/q/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/Transition.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/CSSTransition.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/TransitionGroup.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/SwitchTransition.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/stack-utils/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/yargs/index.d.ts"].
+Error: Could not find sourceFile: '/var/www/reactjs/react-saga/react-saga-lession01/src/reducers/index.js' in ["/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es5.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2016.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.dom.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.dom.iterable.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.scripthost.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.core.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.collection.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.generator.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.promise.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.object.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.string.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.intl.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.intl.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.promise.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2018.regexp.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.esnext.intl.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.esnext.bigint.d.ts","/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.es2016.full.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/src/reducers/task.js","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/atob/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/eslint-plugin-prettier/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/json-schema/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/estree/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/eslint/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/globals.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/assert.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/async_hooks.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/buffer.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/child_process.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/cluster.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/console.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/constants.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/crypto.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/dgram.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/dns.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/domain.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/events.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/fs.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/http.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/http2.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/https.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/inspector.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/module.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/net.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/os.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/path.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/perf_hooks.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/process.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/punycode.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/querystring.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/readline.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/repl.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/stream.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/string_decoder.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/timers.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/tls.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/trace_events.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/tty.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/url.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/util.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/v8.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/vm.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/worker_threads.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/zlib.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/base.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/ts3.2/util.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/ts3.2/globals.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/node/ts3.2/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/object-hash/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/prettier/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/react/global.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/csstype/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/prop-types/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/react/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/react-dom/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/symbol-observable/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/redux/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/hoist-non-react-statics/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/react-redux/index.d.ts","/home/admin123/.cache/typescript/3.4.3/node_modules/@types/sprintf/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react/global.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/csstype/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/prop-types/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/react-scripts/lib/react-app.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/redux/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/redux-thunk/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@babel/types/lib/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/babel__generator/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/babel__traverse/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@babel/parser/typings/babel-parser.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/babel__template/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/babel__core/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/istanbul-lib-coverage/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/istanbul-lib-report/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/istanbul-reports/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/q/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/Transition.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/CSSTransition.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/TransitionGroup.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/SwitchTransition.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/react-transition-group/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/stack-utils/index.d.ts","/var/www/reactjs/react-saga/react-saga-lession01/node_modules/@types/yargs/index.d.ts"].
+    at getValidSourceFile (tsserver.js:120707:23)
+    at Object.getApplicableRefactors (tsserver.js:121485:24)
+    at IOSession.Session.getApplicableRefactors (tsserver.js:130230:53)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:129054:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-08-05 20:36:41.629] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 20:36:41.629] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (tsserver.js:123449:23)
+    at IOSession.Session.getFileAndLanguageServiceForSyntacticOperation (tsserver.js:129782:42)
+    at IOSession.Session.getOutliningSpans (tsserver.js:129796:31)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:128870:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-08-05 20:36:41.675] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 20:36:41.676] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (tsserver.js:123449:23)
+    at ScriptInfo.getDefaultProject (tsserver.js:124175:46)
+    at ProjectService.doEnsureDefaultProjectForFile (tsserver.js:126288:48)
+    at ProjectService.ensureDefaultProjectForFile (tsserver.js:126283:75)
+    at IOSession.Session.getFileAndProjectWorker (tsserver.js:129791:87)
+    at IOSession.Session.getFileAndProject (tsserver.js:129774:29)
+    at IOSession.Session.getApplicableRefactors (tsserver.js:130228:31)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:129054:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-08-05 20:46:53.911] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 20:46:53.912] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (tsserver.js:111413:56)
+    at _loop_9 (tsserver.js:111032:47)
+    at ChangeTracker.finishDeleteDeclarations (tsserver.js:111039:21)
+    at ChangeTracker.getChanges (tsserver.js:111059:22)
+    at Function.ChangeTracker.with (tsserver.js:110604:32)
+    at Object.getCodeActions (tsserver.js:115215:68)
+    at tsserver.js:111589:121
+    at Object.flatMap (tsserver.js:571:25)
+    at Object.getFixes (tsserver.js:111589:23)
+    at tsserver.js:121238:35
+    at Object.flatMap (tsserver.js:571:25)
+    at Object.getCodeFixesAtPosition (tsserver.js:121236:23)
+    at IOSession.Session.getCodeFixes (tsserver.js:130280:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:129036:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-08-05 21:18:28.105] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 21:18:28.106] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (tsserver.js:63212:29)
+    at emitNodeList (tsserver.js:86312:51)
+    at emitList (tsserver.js:86191:13)
+    at Object.writeList (tsserver.js:83634:13)
+    at tsserver.js:106752:29
+    at Object.mapToDisplayParts (tsserver.js:96614:13)
+    at itemInfoForParameters (tsserver.js:106749:41)
+    at getSignatureHelpItem (tsserver.js:106715:95)
+    at tsserver.js:106688:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:106688:36)
+    at tsserver.js:106293:23
+    at Object.runWithCancellationToken (tsserver.js:31444:28)
+    at Object.getSignatureHelpItems (tsserver.js:106291:32)
+    at Object.getSignatureHelpItems (tsserver.js:121081:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:130027:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:128933:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-08-05 21:22:14.630] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 21:22:14.630] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (tsserver.js:63212:29)
+    at emitNodeList (tsserver.js:86312:51)
+    at emitList (tsserver.js:86191:13)
+    at Object.writeList (tsserver.js:83634:13)
+    at tsserver.js:106752:29
+    at Object.mapToDisplayParts (tsserver.js:96614:13)
+    at itemInfoForParameters (tsserver.js:106749:41)
+    at getSignatureHelpItem (tsserver.js:106715:95)
+    at tsserver.js:106688:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:106688:36)
+    at tsserver.js:106293:23
+    at Object.runWithCancellationToken (tsserver.js:31444:28)
+    at Object.getSignatureHelpItems (tsserver.js:106291:32)
+    at Object.getSignatureHelpItems (tsserver.js:121081:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:130027:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:128933:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-08-05 21:22:17.574] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-05 21:22:17.574] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getStartsOnNewLine (tsserver.js:63195:29)
+    at shouldWriteSeparatingLineTerminator (tsserver.js:86509:27)
+    at emitNodeList (tsserver.js:86294:29)
+    at emitList (tsserver.js:86191:13)
+    at Object.writeList (tsserver.js:83634:13)
+    at tsserver.js:106752:29
+    at Object.mapToDisplayParts (tsserver.js:96614:13)
+    at itemInfoForParameters (tsserver.js:106749:41)
+    at getSignatureHelpItem (tsserver.js:106715:95)
+    at tsserver.js:106688:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:106688:36)
+    at tsserver.js:106293:23
+    at Object.runWithCancellationToken (tsserver.js:31444:28)
+    at Object.getSignatureHelpItems (tsserver.js:106291:32)
+    at Object.getSignatureHelpItems (tsserver.js:121081:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:130027:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:128933:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)

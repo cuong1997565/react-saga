@@ -1,3 +1,4 @@
+export const API_END_POINT = 'http://localhost:3000';
 export const STATUS = [
   {
     value: 0,

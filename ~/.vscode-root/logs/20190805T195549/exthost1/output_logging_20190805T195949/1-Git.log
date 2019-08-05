@@ -1,0 +1,271 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/reactjs/react-saga/react-saga-lession01
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/redux/configStore.js
+> git ls-files --stage -- src/redux/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :src/reducers/index.js
+> git show :src/redux/configStore.js
+> git ls-files --stage -- src/redux/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/containers/App/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/containers/App/app.js
+> git ls-files --stage -- src/containers/App/
+> git check-ignore -z --stdin
+> git show :src/containers/App/index.js
+> git show :src/redux/configStore.js
+> git ls-files --stage -- src/redux/
+> git show :src/redux/task.js
+> git ls-files --stage -- src/redux/
+> git check-ignore -z --stdin
+> git show :src/redux/configStore.js
+> git ls-files --stage -- src/redux/
+> git show :src/reducers/index.js
+> git show :src/reducers/task.js
+> git ls-files --stage -- src/reducers/
+> git check-ignore -z --stdin
+> git show :src/reducers/index.js
+> git show :src/reducers/task.js
+> git ls-files --stage -- src/reducers/
+> git show :src/reducers/index.js
+> git show :src/containers/App/index.js
+> git show :src/reducers/index.js
+> git show :src/redux/configStore.js
+> git ls-files --stage -- src/redux/
+> git show :src/reducers/index.js
+> git show :src/redux/configStore.js
+> git ls-files --stage -- src/redux/
+> git show :src/reducers/index.js
+> git show :src/reducers/task.js
+> git ls-files --stage -- src/reducers/
+> git show :src/redux/configStore.js
+> git ls-files --stage -- src/redux/
+> git show :src/reducers/index.js
+> git show :src/reducers/task.js
+> git ls-files --stage -- src/reducers/
+> git show :src/constants/index.js
+> git show :src/constants/task.js
+> git ls-files --stage -- src/constants/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/commans/AxiosService.js
+> git ls-files --stage -- src/commans/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/ajax/task.js
+> git ls-files --stage -- src/ajax/
+> git check-ignore -z --stdin
+> git show :src/constants/task.js
+> git ls-files --stage -- src/constants/
+> git show :src/constants/index.js
+> git show :src/constants/task.js
+> git ls-files --stage -- src/constants/
+> git show :src/ajax/task.js
+> git ls-files --stage -- src/ajax/
+> git show :src/constants/index.js
+> git show :src/ajax/task.js
+> git ls-files --stage -- src/ajax/
+> git show :src/commans/AxiosService.js
+> git ls-files --stage -- src/commans/
+> git check-ignore -z --stdin
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/commans/AxiosService.js
+> git ls-files --stage -- src/commans/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/commans/AxiosService.js
+> git ls-files --stage -- src/commans/
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/reducers/index.js
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git check-ignore -z --stdin
+> git show :src/containers/Taskboard/index.js
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/containers/Taskboard/index.js
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/containers/Taskboard/index.js
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/containers/Taskboard/index.js
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/containers/Taskboard/index.js
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/
+> git show :src/apis/task.js
+> git ls-files --stage -- src/apis/
+> git show :src/actions/task.js
+> git ls-files --stage -- src/actions/

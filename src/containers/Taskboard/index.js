@@ -10,7 +10,9 @@ import TaskList from '../../components/TaskList/index';
 import TaskForm from '../../components/TaskForm/index';
 import { STATUS } from '../../constants/index';
 import PropTypes from 'prop-types';
-
+import { connect } from 'react-redux';
+import { bindActionCreators }  from 'redux';
+import * as taskActions from './../../actions/task';
 const listTask = [
   {
     id: 1,
@@ -31,7 +33,6 @@ const listTask = [
     status: 1,
   },
 ];
-
 class TaskBoardd extends Component {
   state = {
     open: false,
@@ -70,6 +71,15 @@ class TaskBoardd extends Component {
       open: true,
     });
   };
+
+  // eslint-disable-next-line react/no-deprecated
+  componentWillMount() {
+    const { taskActionCreator } = this.props;
+    const  { fetchListTask } = taskActionCreator;
+    fetchListTask();
+
+  }
+
   render() {
     const { classes } = this.props;
     return (
@@ -88,5 +98,16 @@ class TaskBoardd extends Component {
 }
 TaskBoardd.propTypes = {
   classes: PropTypes.object,
+  taskActionCreator : PropTypes.shape({
+    fetchListTask : PropTypes.func
+  })
 };
-export default withStyles(styles)(TaskBoardd);
+
+const mapStateToProps = null;
+const mapDispatchToProps = dispatch => {
+  return {
+    taskActionCreator : bindActionCreators(taskActions, dispatch)
+  };
+};
+
+export default withStyles(styles)(connect(mapStateToProps, mapDispatchToProps)(TaskBoardd));

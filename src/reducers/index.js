@@ -1,4 +1,7 @@
 /* eslint-disable import/order */
 import { combineReducers } from 'redux';
-const rootReducer = combineReducers({});
+import taskReducer from '../reducers/task';
+const rootReducer = combineReducers({
+  task: taskReducer,
+});
 export default rootReducer;
