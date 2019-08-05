@@ -1,62 +1,92 @@
-import React, { Component } from "react";
+/* eslint-disable prettier/prettier */
+/* eslint-disable import/order */
+import React, { Component } from 'react';
 import { withStyles } from '@material-ui/styles';
-import styles from "./style";
+import styles from './style';
 import Button from '@material-ui/core/Button';
 import AddIcon from '@material-ui/icons/Add';
 import Grid from '@material-ui/core/Grid';
 import TaskList from '../../components/TaskList/index';
+import TaskForm from '../../components/TaskForm/index';
 import { STATUS } from '../../constants/index';
+import PropTypes from 'prop-types';
 
 const listTask = [
-    {
-        id: 1,
-        title: "Read book",
-        description: "Read ui book",
-        status: 0
-    },
-    {
-        id: 1,
-        title: "Play football",
-        description: "With my friendk",
-        status: 2
-    },
-    {
-        id: 2,
-        title: "Play comment",
-        description: "Read ui book",
-        status: 1
-    }
+  {
+    id: 1,
+    title: 'Read book',
+    description: 'Read ui book',
+    status: 0,
+  },
+  {
+    id: 1,
+    title: 'Play football',
+    description: 'With my friendk',
+    status: 2,
+  },
+  {
+    id: 2,
+    title: 'Play comment',
+    description: 'Read ui book',
+    status: 1,
+  },
 ];
 
 class TaskBoardd extends Component {
-    renderBoard() {
-        let xhtml = null;
-        const { classes } = this.props;
-        xhtml = (
-            <Grid container spacing={2}>
-                {
-                    STATUS.map((status, index) => {
-                        const TaskFilter = listTask.filter(task => task.status === status.value);
-                        return (
-                            <TaskList tasks={ TaskFilter } status= { status } key = { index } />
-                        );
-                    })
-                }
-            </Grid>
-        );
-        return xhtml;
-    }
-    render() {
-        const { classes } = this.props;
-        return (
-            <div className={classes.TaskBoardd}>
-                <Button variant="contained" color="primary">
-                    <AddIcon /> Them moi cong viec
-                </Button>
+  state = {
+    open: false,
+  };
+  renderBoard() {
+    let xhtml = null;
+    xhtml = (
+      // eslint-disable-next-line react/jsx-max-props-per-line
+      <Grid container spacing={2}>
+        {STATUS.map((status, index) => {
+          const TaskFilter = listTask.filter(
+            task => task.status === status.value,
+          );
+          // eslint-disable-next-line react/jsx-max-props-per-line
+          return <TaskList tasks={TaskFilter} status={status} key={index} />;
+        })}
+      </Grid>
+    );
+    return xhtml;
+  }
+  handleClose = () => {
+    this.setState({
+      open: false,
+    });
+  };
+  renderForm() {
+    let xhtml = null;
+    const { open } = this.state;
+    // eslint-disable-next-line react/jsx-max-props-per-line
+    xhtml = <TaskForm open={open} onClose={this.handleClose} />;
+    return xhtml;
+  }
 
-                {this.renderBoard()}
-            </div>
-        );
-    }
+  addNewTask = () => {
+    this.setState({
+      open: true,
+    });
+  };
+  render() {
+    const { classes } = this.props;
+    return (
+      <div className={classes.TaskBoardd}>
+        <Button variant="contained"
+        color="primary"
+        onClick={this.addNewTask}>
+          <AddIcon /> Them moi cong viec
+        </Button>
+
+        {this.renderBoard()}
+        {this.renderForm()}
+      </div>
+    );
+  }
 }
+TaskBoardd.propTypes = {
+  classes: PropTypes.object,
+};
 export default withStyles(styles)(TaskBoardd);

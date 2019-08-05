@@ -24,16 +24,16 @@
 import React, { Component } from 'react';
 import styles from './style';
 import { withStyles } from '@material-ui/styles';
-import { ThemeProvider } from '@material-ui/styles';
+// import { ThemeProvider } from '@material-ui/styles';
 import Taskboard from './../Taskboard/index';
 class App extends Component {
   render() {
-    const { classes, theme } = this.props;
+    // const { classes, theme } = this.props;
     return (
       <div className="App">
-          {/* <ThemeProvider> */}
-             <Taskboard /> 
-          {/* </ThemeProvider> */}
+        {/* <ThemeProvider> */}
+        <Taskboard />
+        {/* </ThemeProvider> */}
       </div>
     );
   }
