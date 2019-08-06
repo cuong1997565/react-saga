@@ -1,0 +1,5 @@
+[Info  - 9:13:54 PM] ESLint server stopped.
+[Info  - 9:13:55 PM] ESLint server running in node v10.2.0
+[Info  - 9:13:55 PM] ESLint server is running.
+[Info  - 9:13:58 PM] ESLint library loaded from: /var/www/reactjs/react-saga/react-saga-lession01/node_modules/eslint/lib/api.js
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
