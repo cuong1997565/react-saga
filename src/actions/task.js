@@ -1,15 +1,40 @@
 import * as taskApis from './../apis/task';
+import * as taskConstants from './../constants/task';
 export const fetchListTask = () => {
+  return {
+    type : taskConstants.FETCH_TASK
+  }
+}
+
+export const fetchListTaskSuccess = (data) => {
+  return {
+    type : taskConstants.FETCH_TASK_SUCCESS,
+    payload : {
+      data
+    }
+  }
+}
+
+export const fetchListTaskFailed = (error) => {
+  return {
+    type : taskConstants.FETCH_TASK_FAILED,
+    payload : {
+      error
+    }
+  }
+}
+
+export const fetchListTaskRequest = () => {
   return dispatch => {
+    dispatch(fetchListTask());
     taskApis
       .fetchListTask()
       .then(response => {
-        // eslint-disable-next-line no-console
-        console.log(response);
+        const { data } = response;
+        dispatch(fetchListTaskSuccess(data));
       })
       .catch(error => {
-        // eslint-disable-next-line no-console
-        console.log(error);
+        dispatch(fetchListTaskFailed(error));
       });
   };
 };

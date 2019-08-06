@@ -21,7 +21,7 @@ class TaskItem extends Component {
               <Typography component="h2">{title}</Typography>
             </Grid>
             <Grid item md={4}>
-              {status.label}
+              {status.status === 1 ? 'ton tai' : 'khong ton tai' }
             </Grid>
             <p>{description}</p>
           </Grid>
