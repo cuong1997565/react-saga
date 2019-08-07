@@ -12,6 +12,8 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { bindActionCreators }  from 'redux';
 import * as taskActions from './../../actions/task';
+import SreachBox from './../../components/SearchBox';
+
 class TaskBoardd extends Component {
   state = {
     open: false,
@@ -64,6 +66,20 @@ class TaskBoardd extends Component {
     const  { fetchListTask } = taskActionCreator;
     fetchListTask();
   }
+
+  handleChange = e => {
+    const { value } = e.target;
+    const { taskActionCreator } = this.props;
+    const { filterTask } = taskActionCreator;
+    filterTask(value);
+  }
+
+  renderSearchBox = () => {
+    let xhtml = null;
+    xhtml = <SreachBox handleChange={ this.handleChange } />;
+    return xhtml;
+  }
+
   render() {
     const { classes } = this.props;
     return (
@@ -81,6 +97,7 @@ class TaskBoardd extends Component {
         onClick={this.addNewTask}>
           <AddIcon /> Them moi cong viec
         </Button>
+        { this.renderSearchBox() }
         {this.renderBoard()}
         {this.renderForm()}
       </div>
@@ -90,7 +107,8 @@ class TaskBoardd extends Component {
 TaskBoardd.propTypes = {
   classes: PropTypes.object,
   taskActionCreator : PropTypes.shape({
-    fetchListTask : PropTypes.func
+    fetchListTask : PropTypes.func,
+    filterTask : PropTypes.func
   }),
   listTask : PropTypes.array
 };

@@ -1,0 +1,1 @@
+import * as modalTypes from './../constants/modal';
